@@ -2,6 +2,9 @@
 
 # Superstore Sales Analysis
 
+#Dataset link
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final?utm_source=chatgpt.com
+
 ## Objective
 Analyze business performance using sales data.
 
